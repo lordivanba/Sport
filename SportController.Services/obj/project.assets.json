@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SportController.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SportController.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SportController.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SportController.Models/1.0.0": {
+      "type": "project",
+      "path": "../SportController.Models/SportController.Models.csproj",
+      "msbuildProject": "../SportController.Models/SportController.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SportController.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\viern\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Services\\SportController.Services.csproj",
+      "projectName": "SportController.Services",
+      "projectPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Services\\SportController.Services.csproj",
+      "packagesPath": "C:\\Users\\viern\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\viern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj": {
+              "projectPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

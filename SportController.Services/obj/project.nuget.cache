@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aC+IYT6OonPNWCgmygxXLrluWstDyjpmdRLzg+tks2R9aEspd7XGg/X5SjkbhLYXv3+0V7UvUWicKiMx1FBumA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Services\\SportController.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viern\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
