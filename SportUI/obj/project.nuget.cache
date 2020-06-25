@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/m+6jGBlMdE0vq1N6xTJt2orx6DOomSzSFXmZdqs430IuI37ldyKug1EQBdX7LboAiLCpDV1yqKlgwdGvkeXQ==",
+  "dgSpecHash": "nhqHr3lAPFgfFUFWhHh5dDRNW9wCNNAx9dj+UhH/aA/PmJIfWcreVP5Y1n05j4ECwqiotN3BlkV6d0qxib1jCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\viern\\source\\repos\\SportController\\SportUI\\SportUI.csproj",
+  "projectFilePath": "C:\\Users\\viern\\Documents\\SportController\\SportUI\\SportUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viern\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\viern\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -110,8 +110,7 @@
     "C:\\Users\\viern\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\viern\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\viern\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\viern\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\viern\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\viern\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

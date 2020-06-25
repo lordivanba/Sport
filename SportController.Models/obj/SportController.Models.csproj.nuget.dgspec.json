@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj": {}
+    "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\SportController.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj": {
+    "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\SportController.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj",
+        "projectUniqueName": "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\SportController.Models.csproj",
         "projectName": "SportController.Models",
-        "projectPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj",
+        "projectPath": "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\SportController.Models.csproj",
         "packagesPath": "C:\\Users\\viern\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\obj\\",
+        "outputPath": "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -51,18 +51,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

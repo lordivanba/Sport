@@ -6112,11 +6112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viern\\source\\repos\\SportController\\SportUI\\SportUI.csproj",
+      "projectUniqueName": "C:\\Users\\viern\\Documents\\SportController\\SportUI\\SportUI.csproj",
       "projectName": "SportUI",
-      "projectPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportUI\\SportUI.csproj",
+      "projectPath": "C:\\Users\\viern\\Documents\\SportController\\SportUI\\SportUI.csproj",
       "packagesPath": "C:\\Users\\viern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportUI\\obj\\",
+      "outputPath": "C:\\Users\\viern\\Documents\\SportController\\SportUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6136,11 +6136,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj": {
-              "projectPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Models\\SportController.Models.csproj"
+            "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\SportController.Models.csproj": {
+              "projectPath": "C:\\Users\\viern\\Documents\\SportController\\SportController.Models\\SportController.Models.csproj"
             },
-            "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Services\\SportController.Services.csproj": {
-              "projectPath": "C:\\Users\\viern\\source\\repos\\SportController\\SportController.Services\\SportController.Services.csproj"
+            "C:\\Users\\viern\\Documents\\SportController\\SportController.Services\\SportController.Services.csproj": {
+              "projectPath": "C:\\Users\\viern\\Documents\\SportController\\SportController.Services\\SportController.Services.csproj"
             }
           }
         }
@@ -6169,12 +6169,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6183,7 +6177,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

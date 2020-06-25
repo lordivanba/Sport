@@ -10,3 +10,15 @@ C:\Users\viern\source\repos\SportController\SportController.Services\obj\Debug\n
 C:\Users\viern\source\repos\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.csproj.CopyComplete
 C:\Users\viern\source\repos\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.dll
 C:\Users\viern\source\repos\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.pdb
+C:\Users\viern\Documents\SportController\SportController.Services\bin\Debug\netcoreapp3.1\SportController.Services.deps.json
+C:\Users\viern\Documents\SportController\SportController.Services\bin\Debug\netcoreapp3.1\SportController.Services.dll
+C:\Users\viern\Documents\SportController\SportController.Services\bin\Debug\netcoreapp3.1\SportController.Services.pdb
+C:\Users\viern\Documents\SportController\SportController.Services\bin\Debug\netcoreapp3.1\SportController.Models.dll
+C:\Users\viern\Documents\SportController\SportController.Services\bin\Debug\netcoreapp3.1\SportController.Models.pdb
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.csprojAssemblyReference.cache
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.AssemblyInfoInputs.cache
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.AssemblyInfo.cs
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.csproj.CoreCompileInputs.cache
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.csproj.CopyComplete
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.dll
+C:\Users\viern\Documents\SportController\SportController.Services\obj\Debug\netcoreapp3.1\SportController.Services.pdb

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportUI", "SportUI\SportUI.csproj", "{3C32A50B-7917-47CD-84A8-C718B76DCA84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportUI", "SportUI\SportUI.csproj", "{3C32A50B-7917-47CD-84A8-C718B76DCA84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportController.Models", "SportController.Models\SportController.Models.csproj", "{D5915F3B-A026-49F6-A171-257A841C48B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportController.Models", "SportController.Models\SportController.Models.csproj", "{D5915F3B-A026-49F6-A171-257A841C48B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportController.Services", "SportController.Services\SportController.Services.csproj", "{A6E72B77-ADCD-44CD-A8CE-E6C1759A7A43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportController.Services", "SportController.Services\SportController.Services.csproj", "{A6E72B77-ADCD-44CD-A8CE-E6C1759A7A43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

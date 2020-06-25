@@ -26,6 +26,12 @@ namespace SportUI
         {
             services.AddRazorPages();
             services.AddSingleton<IRepositoryPlayer, MockPlayerRepository>();
+            services.AddSingleton<IRepositoryClub, MockClubRepository>();
+            services.AddRouting(option => {
+                option.LowercaseUrls = true;
+                option.LowercaseQueryStrings = true;
+                option.AppendTrailingSlash = true;
+            });
 
         }
 

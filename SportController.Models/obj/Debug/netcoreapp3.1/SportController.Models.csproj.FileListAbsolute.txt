@@ -7,3 +7,12 @@ C:\Users\viern\source\repos\SportController\SportController.Models\obj\Debug\net
 C:\Users\viern\source\repos\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.csproj.CoreCompileInputs.cache
 C:\Users\viern\source\repos\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.dll
 C:\Users\viern\source\repos\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.pdb
+C:\Users\viern\Documents\SportController\SportController.Models\bin\Debug\netcoreapp3.1\SportController.Models.deps.json
+C:\Users\viern\Documents\SportController\SportController.Models\bin\Debug\netcoreapp3.1\SportController.Models.dll
+C:\Users\viern\Documents\SportController\SportController.Models\bin\Debug\netcoreapp3.1\SportController.Models.pdb
+C:\Users\viern\Documents\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.csprojAssemblyReference.cache
+C:\Users\viern\Documents\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.AssemblyInfoInputs.cache
+C:\Users\viern\Documents\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.AssemblyInfo.cs
+C:\Users\viern\Documents\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.csproj.CoreCompileInputs.cache
+C:\Users\viern\Documents\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.dll
+C:\Users\viern\Documents\SportController\SportController.Models\obj\Debug\netcoreapp3.1\SportController.Models.pdb
